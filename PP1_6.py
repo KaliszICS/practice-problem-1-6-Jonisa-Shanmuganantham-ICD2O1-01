@@ -36,7 +36,9 @@ def q4():
   num2 = int(num2)
   print(int(num1 * num2))
 
+'''
 q1()
 q2()
 q3()
 q4()
+'''
